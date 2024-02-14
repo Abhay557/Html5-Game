@@ -1,35 +1,30 @@
-# Simple HTML-5 Game
-This Game Is Made With Simple Html,Css,Javascript!
+# Easy HTML-5 Video Game
 
-## Preview
-![1](/readme/gallery/1.jpg)
+This game was created using basic HTML, CSS, and JavaScript!
 
-## About
-1. Web Based Game!
-2. Game Has Background Music.
-3. Supportable In Any Internet-Brower.
-4. Made With Javascript!
-5. Easy To Install & To Deploy!
+## Exclusive Look![1](/readme/gallery/1.jpg)
 
-### Game Controlls & Gameplay!
-In Game Just You Have To Collect Nitro In Limited Time!
-<br>I Challenge You Can't Make It 20 Nitro!</br>
-![Gameplay](/readme/gallery/Game.gif)
+## Overview:
+1. Online video game
+2. There is background music in the game.
+3. Compatible with any web browser.
+4. Created using javascript!
+5. Simple to set up & use!
 
- | Left |  Right  |
- |:-----|:-------:|
- |   ←  |   →     |
+### Game Play & Controls!
+You only have a limited amount of time to gather nitro in the game!
+<br>you can't make it 20 nitro, i challenge you!
+[Playing the game](/gallery/Game.gif /readme)
 
-### License
-This Game v 1.0 Is Released Under The Boost Software License.
+| Right | Left |
+|:-------|:-------:|
+| ← | → |
 
 ## Community
-Do you have a question, feature request or something else on your mind?
-Or you just want to follow  news?
-Check out these links:
+Do you have any other thoughts, questions, or feature requests?
+Do you simply wish to keep up with news?
+Take a look at these links:
 
-* [Community Support](https://discord.gg/autocode)
-* [Join a Discord server](https://discord.gg/5V68EK8AeS)
-* [Contact The Author](https://github.com/Abhay557)
-* [Special Thanks To KSK For Making Awesome Assets](https://discord.gg/WEs2eHUaUF)
-* [Github Repo](https://github.com/Abhay557/Html5-Game)
+* [Join a discord server](https://discord.gg/CUgHj4X7uB)
+* [Contact the author](https://github.com/Abhay557)
+* [Github repo](https://github.com/Abhay557/Html5-Game)
