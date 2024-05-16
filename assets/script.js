@@ -1,5 +1,5 @@
 var bgAudio = new Audio(); 
-bgAudio.src="/assets/audio/bg.mp3", bgAudio.loop=true ,bgAudio.play();
+bgAudio.src="assets/audio/bg.mp3", bgAudio.loop=true ,bgAudio.play();
 var canvas = document.getElementsByTagName("canvas")[0]; 
 var ctx = canvas.getContext("2d"); 
 var game = { speed : 12  , score:0, time : 25 , status : true } 
@@ -20,7 +20,7 @@ var launch = function (step) {
 		else
 		{
 			game.status=false;
-			bgimg.src = "/images/background2.png";
+			bgimg.src = "images/background2.png";
 			bgAudio.pause();
 		}
 		},1000);
@@ -34,18 +34,18 @@ var launch = function (step) {
 
 var br = false, bgimg = new Image(); 
 bgimg.onload = function () {br = true;};
-bgimg.src = "/images/background.png";
+bgimg.src = "images/background.png";
 
 var rr = false, roleimg = new Image(); 
 roleimg.onload = function () {rr = true;};
-roleimg.src = "/images/role.png";
+roleimg.src = "images/role.png";
 
 var cr = false, coinimg = new Image(); 
 coinimg.onload = function () {cr = true;};
-coinimg.src = "/images/coin.png";
+coinimg.src = "images/coin.png";
 
 var audio = new Audio(); 
-audio.src="/assets/audio/coin.wav";
+audio.src="assets/audio/coin.wav";
 var loop = function () {
 	if (37 in keys) 
 		if(role.x>0)
